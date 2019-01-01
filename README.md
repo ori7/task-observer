@@ -1,0 +1,1 @@
+Design observer that takes random number from 0 to num, and if the checkbox is checked make the BGcolor green.
